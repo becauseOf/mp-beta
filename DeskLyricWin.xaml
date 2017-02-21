@@ -1,0 +1,17 @@
+﻿<Window x:Class="StudyOfWpfApplication1.DeskLyricWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        AllowsTransparency="True"
+        Title="DeskLyricWin" Height="120" Width="1200" 
+        WindowStyle="None" WindowStartupLocation="CenterScreen" Background="#00000000" Loaded="Window_Loaded" MouseDown="Window_MouseDown" MouseEnter="Window_MouseEnter" MouseLeave="Window_MouseLeave" ShowInTaskbar="False" Topmost="True">
+    <Grid Background="#00000000" Height="93" Width="1182">
+        <Rectangle Height="{Binding ElementName=canvasDeskLyric, Path=ActualHeight}" HorizontalAlignment="Left" x:Name="rectangleDeskLyricBack" Stroke="Black" VerticalAlignment="Top" Width="{Binding ElementName=canvasDeskLyric, Path=ActualWidth}" Fill="#5A5758" Opacity="0.8" Visibility="Hidden" StrokeThickness="1"/>
+        <Canvas Height="81"  Margin="0" Name="canvasDeskLyric" OpacityMask="Black" Background="#00000000">
+            <TextBlock x:Name="textBlockDeskLyricBack" Text="听音乐，用灵悦音乐！" FontSize="40" TextAlignment="Center" Foreground="#FFD4BB" Background="#00000000" Width="{Binding ElementName=canvasDeskLyric, Path=ActualWidth}" Height="{Binding ElementName=canvasDeskLyric, Path=ActualHeight}" />
+            <Canvas Height="{Binding ElementName=canvasDeskLyric, Path=ActualHeight}" HorizontalAlignment="Left" x:Name="canvasDeskLyricFore" VerticalAlignment="Top" Width="1177" ClipToBounds="True" Background="#00000000" Visibility="Visible">
+                <TextBlock Height="{Binding ElementName=canvasDeskLyric, Path=ActualHeight}" x:Name="textBlockDeskLyricFore" Text="{Binding ElementName=textBlockDeskLyricBack, Path=Text}" Width="{Binding ElementName=canvasDeskLyric, Mode=OneWay, Path=ActualWidth}" Foreground="#8CCEF1" FontSize="{Binding ElementName=textBlockDeskLyricBack, Path=FontSize}" TextAlignment="Center" FontFamily="{Binding ElementName=textBlockDeskLyricBack, Path=FontFamily}" Background="#00000000" OpacityMask="Black" Opacity="{Binding ElementName=textBlockDeskLyricBack, Path=Opacity}" />
+            </Canvas>
+        </Canvas>
+        <Button Content="×" Click="Button_Click"  Name="btn_close" Visibility="Hidden" HorizontalAlignment="Left" Margin="1158,0,0,71" VerticalAlignment="Bottom" Width="24"/>
+    </Grid>
+</Window>

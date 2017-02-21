@@ -1,0 +1,201 @@
+C:\Users\G\Desktop\StudyOfWpfApplication1\bin\Debug\StudyOfWpfApplication1.exe.config
+C:\Users\G\Desktop\StudyOfWpfApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\G\Desktop\StudyOfWpfApplication1\obj\Debug\StudyOfWpfApplication1.csproj.ResolveComReference.cache
+C:\Users\G\Desktop\StudyOfWpfApplication1\bin\Debug\StudyOfWpfApplication1.exe
+C:\Users\G\Desktop\StudyOfWpfApplication1\bin\Debug\StudyOfWpfApplication1.pdb
+C:\Users\G\Desktop\StudyOfWpfApplication1\obj\Debug\StudyOfWpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\G\Desktop\StudyOfWpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\G\Desktop\StudyOfWpfApplication1\obj\Debug\App.baml
+C:\Users\G\Desktop\StudyOfWpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\G\Desktop\StudyOfWpfApplication1\obj\Debug\App.g.cs
+C:\Users\G\Desktop\StudyOfWpfApplication1\obj\Debug\StudyOfWpfApplication1_MarkupCompile.cache
+C:\Users\G\Desktop\StudyOfWpfApplication1\obj\Debug\StudyOfWpfApplication1.g.resources
+C:\Users\G\Desktop\StudyOfWpfApplication1\obj\Debug\StudyOfWpfApplication1.Properties.Resources.resources
+C:\Users\G\Desktop\StudyOfWpfApplication1\obj\Debug\StudyOfWpfApplication1.csproj.GenerateResource.Cache
+C:\Users\G\Desktop\StudyOfWpfApplication1\obj\Debug\StudyOfWpfApplication1.exe
+C:\Users\G\Desktop\StudyOfWpfApplication1\obj\Debug\StudyOfWpfApplication1.pdb
+C:\Users\G\Desktop\StudyOfWpfApplication1 - 副本\bin\Debug\StudyOfWpfApplication1.exe.config
+C:\Users\G\Desktop\StudyOfWpfApplication1 - 副本\obj\Debug\Interop.WMPLib.dll
+C:\Users\G\Desktop\StudyOfWpfApplication1 - 副本\obj\Debug\StudyOfWpfApplication1.csproj.ResolveComReference.cache
+C:\Users\G\Desktop\StudyOfWpfApplication1 - 副本\obj\Debug\StudyOfWpfApplication1.exe
+C:\Users\G\Desktop\StudyOfWpfApplication1 - 副本\obj\Debug\StudyOfWpfApplication1.pdb
+C:\Users\G\Desktop\StudyOfWpfApplication1 -2.0\bin\Debug\StudyOfWpfApplication1.exe.config
+C:\Users\G\Desktop\StudyOfWpfApplication1 -2.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\G\Desktop\StudyOfWpfApplication1 -2.0\obj\Debug\StudyOfWpfApplication1.csproj.ResolveComReference.cache
+C:\Users\G\Desktop\StudyOfWpfApplication1 -2.0\obj\Debug\StudyOfWpfApplication1.exe
+C:\Users\G\Desktop\StudyOfWpfApplication1 -2.0\obj\Debug\StudyOfWpfApplication1.pdb
+C:\Users\G\Desktop\StudyOfWpfApplication1 -2.0\bin\Debug\StudyOfWpfApplication1.exe
+C:\Users\G\Desktop\StudyOfWpfApplication1 -2.0\bin\Debug\StudyOfWpfApplication1.pdb
+C:\Users\G\Desktop\StudyOfWpfApplication1 -2.0\obj\Debug\StudyOfWpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\G\Desktop\StudyOfWpfApplication1 -2.0\obj\Debug\MainWindow.baml
+C:\Users\G\Desktop\StudyOfWpfApplication1 -2.0\obj\Debug\App.baml
+C:\Users\G\Desktop\StudyOfWpfApplication1 -2.0\obj\Debug\MainWindow.g.cs
+C:\Users\G\Desktop\StudyOfWpfApplication1 -2.0\obj\Debug\App.g.cs
+C:\Users\G\Desktop\StudyOfWpfApplication1 -2.0\obj\Debug\StudyOfWpfApplication1_MarkupCompile.cache
+C:\Users\G\Desktop\StudyOfWpfApplication1 -2.0\obj\Debug\StudyOfWpfApplication1.g.resources
+C:\Users\G\Desktop\StudyOfWpfApplication1 -2.0\obj\Debug\StudyOfWpfApplication1.Properties.Resources.resources
+C:\Users\G\Desktop\StudyOfWpfApplication1 -2.0\obj\Debug\StudyOfWpfApplication1.csproj.GenerateResource.Cache
+C:\Users\gala\Desktop\file\大二\SSD4\StudyOfWpfApplication1 -2.0\bin\Debug\StudyOfWpfApplication1.exe.config
+C:\Users\gala\Desktop\file\大二\SSD4\StudyOfWpfApplication1 -2.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\gala\Desktop\file\大二\SSD4\StudyOfWpfApplication1 -2.0\obj\Debug\StudyOfWpfApplication1.csproj.ResolveComReference.cache
+C:\Users\gala\Desktop\file\大二\SSD4\StudyOfWpfApplication1 -2.0\obj\Debug\StudyOfWpfApplication1.exe
+C:\Users\gala\Desktop\file\大二\SSD4\StudyOfWpfApplication1 -2.0\obj\Debug\StudyOfWpfApplication1.pdb
+C:\Users\gala\Desktop\file\大二\SSD4\StudyOfWpfApplication1 -2.0\bin\Debug\StudyOfWpfApplication1.exe
+C:\Users\gala\Desktop\file\大二\SSD4\StudyOfWpfApplication1 -2.0\bin\Debug\StudyOfWpfApplication1.pdb
+C:\Users\gala\Desktop\file\大二\SSD4\StudyOfWpfApplication1 -2.0\obj\Debug\StudyOfWpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\gala\Desktop\file\大二\SSD4\StudyOfWpfApplication1 -2.0\obj\Debug\MainWindow.baml
+C:\Users\gala\Desktop\file\大二\SSD4\StudyOfWpfApplication1 -2.0\obj\Debug\App.baml
+C:\Users\gala\Desktop\file\大二\SSD4\StudyOfWpfApplication1 -2.0\obj\Debug\MainWindow.g.cs
+C:\Users\gala\Desktop\file\大二\SSD4\StudyOfWpfApplication1 -2.0\obj\Debug\App.g.cs
+C:\Users\gala\Desktop\file\大二\SSD4\StudyOfWpfApplication1 -2.0\obj\Debug\StudyOfWpfApplication1_MarkupCompile.cache
+C:\Users\gala\Desktop\file\大二\SSD4\StudyOfWpfApplication1 -2.0\obj\Debug\StudyOfWpfApplication1.g.resources
+C:\Users\gala\Desktop\file\大二\SSD4\StudyOfWpfApplication1 -2.0\obj\Debug\StudyOfWpfApplication1.Properties.Resources.resources
+C:\Users\gala\Desktop\file\大二\SSD4\StudyOfWpfApplication1 -2.0\obj\Debug\StudyOfWpfApplication1.csproj.GenerateResource.Cache
+C:\Users\gala\Desktop\file\大二\SSD4\StudyOfWpfApplication1 -2.0\obj\Debug\WindowList.baml
+C:\Users\gala\Desktop\file\大二\SSD4\StudyOfWpfApplication1 -2.0\obj\Debug\WindowList.g.cs
+C:\Users\gala\Desktop\StudyOfWpfApplication1 -2.0歌词实现\bin\Debug\StudyOfWpfApplication1.exe.config
+C:\Users\gala\Desktop\StudyOfWpfApplication1 -2.0歌词实现\obj\Debug\Interop.WMPLib.dll
+C:\Users\gala\Desktop\StudyOfWpfApplication1 -2.0歌词实现\obj\Debug\StudyOfWpfApplication1.csproj.ResolveComReference.cache
+C:\Users\gala\Desktop\StudyOfWpfApplication1 -2.0歌词实现\obj\Debug\StudyOfWpfApplication1.exe
+C:\Users\gala\Desktop\StudyOfWpfApplication1 -2.0歌词实现\obj\Debug\StudyOfWpfApplication1.pdb
+C:\Users\gala\Desktop\StudyOfWpfApplication1 -2.0歌词实现\bin\Debug\StudyOfWpfApplication1.exe
+C:\Users\gala\Desktop\StudyOfWpfApplication1 -2.0歌词实现\bin\Debug\StudyOfWpfApplication1.pdb
+C:\Users\gala\Desktop\StudyOfWpfApplication1 -2.0歌词实现\obj\Debug\StudyOfWpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\gala\Desktop\StudyOfWpfApplication1 -2.0歌词实现\obj\Debug\DeskLyricWin.baml
+C:\Users\gala\Desktop\StudyOfWpfApplication1 -2.0歌词实现\obj\Debug\MainWindow.baml
+C:\Users\gala\Desktop\StudyOfWpfApplication1 -2.0歌词实现\obj\Debug\WindowList.baml
+C:\Users\gala\Desktop\StudyOfWpfApplication1 -2.0歌词实现\obj\Debug\App.baml
+C:\Users\gala\Desktop\StudyOfWpfApplication1 -2.0歌词实现\obj\Debug\DeskLyricWin.g.cs
+C:\Users\gala\Desktop\StudyOfWpfApplication1 -2.0歌词实现\obj\Debug\MainWindow.g.cs
+C:\Users\gala\Desktop\StudyOfWpfApplication1 -2.0歌词实现\obj\Debug\WindowList.g.cs
+C:\Users\gala\Desktop\StudyOfWpfApplication1 -2.0歌词实现\obj\Debug\App.g.cs
+C:\Users\gala\Desktop\StudyOfWpfApplication1 -2.0歌词实现\obj\Debug\StudyOfWpfApplication1_MarkupCompile.cache
+C:\Users\gala\Desktop\StudyOfWpfApplication1 -2.0歌词实现\obj\Debug\StudyOfWpfApplication1.g.resources
+C:\Users\gala\Desktop\StudyOfWpfApplication1 -2.0歌词实现\obj\Debug\StudyOfWpfApplication1.Properties.Resources.resources
+C:\Users\gala\Desktop\StudyOfWpfApplication1 -2.0歌词实现\obj\Debug\StudyOfWpfApplication1.csproj.GenerateResource.Cache
+C:\Users\gala\Desktop\mp-beta\bin\Debug\StudyOfWpfApplication1.exe.config
+C:\Users\gala\Desktop\mp-beta\obj\Debug\Interop.WMPLib.dll
+C:\Users\gala\Desktop\mp-beta\obj\Debug\StudyOfWpfApplication1.csproj.ResolveComReference.cache
+C:\Users\gala\Desktop\mp-beta\obj\Debug\StudyOfWpfApplication1.exe
+C:\Users\gala\Desktop\mp-beta\obj\Debug\StudyOfWpfApplication1.pdb
+C:\Users\gala\Desktop\mp-beta\bin\Debug\StudyOfWpfApplication1.exe
+C:\Users\gala\Desktop\mp-beta\bin\Debug\StudyOfWpfApplication1.pdb
+C:\Users\gala\Desktop\mp-beta\obj\Debug\StudyOfWpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\gala\Desktop\mp-beta\obj\Debug\DeskLyricWin.baml
+C:\Users\gala\Desktop\mp-beta\obj\Debug\MainWindow.baml
+C:\Users\gala\Desktop\mp-beta\obj\Debug\WindowList.baml
+C:\Users\gala\Desktop\mp-beta\obj\Debug\App.baml
+C:\Users\gala\Desktop\mp-beta\obj\Debug\DeskLyricWin.g.cs
+C:\Users\gala\Desktop\mp-beta\obj\Debug\MainWindow.g.cs
+C:\Users\gala\Desktop\mp-beta\obj\Debug\WindowList.g.cs
+C:\Users\gala\Desktop\mp-beta\obj\Debug\App.g.cs
+C:\Users\gala\Desktop\mp-beta\obj\Debug\StudyOfWpfApplication1_MarkupCompile.cache
+C:\Users\gala\Desktop\mp-beta\obj\Debug\StudyOfWpfApplication1.g.resources
+C:\Users\gala\Desktop\mp-beta\obj\Debug\StudyOfWpfApplication1.Properties.Resources.resources
+C:\Users\gala\Desktop\mp-beta\obj\Debug\StudyOfWpfApplication1.csproj.GenerateResource.Cache
+C:\Users\gala\Desktop\mp-beta\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\gala\Desktop\mp-beta\obj\Debug\StudyOfWpfApplication1_MarkupCompile.lref
+C:\Users\gala\Desktop\mp-beta\bin\Debug\Interop.Shell32.dll
+C:\Users\gala\Desktop\mp-beta\obj\Debug\Interop.Shell32.dll
+C:\Users\Administrator\Desktop\mp-beta\bin\Debug\StudyOfWpfApplication1.exe.config
+C:\Users\Administrator\Desktop\mp-beta\obj\Debug\Interop.Shell32.dll
+C:\Users\Administrator\Desktop\mp-beta\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\mp-beta\obj\Debug\StudyOfWpfApplication1.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\mp-beta\obj\Debug\StudyOfWpfApplication1.exe
+C:\Users\Administrator\Desktop\mp-beta\obj\Debug\StudyOfWpfApplication1.pdb
+C:\Users\gala\Desktop\mp-beta何\mp-beta\bin\Debug\StudyOfWpfApplication1.exe.config
+C:\Users\gala\Desktop\mp-beta何\mp-beta\obj\Debug\Interop.Shell32.dll
+C:\Users\gala\Desktop\mp-beta何\mp-beta\obj\Debug\Interop.WMPLib.dll
+C:\Users\gala\Desktop\mp-beta何\mp-beta\obj\Debug\StudyOfWpfApplication1.csproj.ResolveComReference.cache
+C:\Users\gala\Desktop\mp-beta何\mp-beta\obj\Debug\StudyOfWpfApplication1.exe
+C:\Users\gala\Desktop\mp-beta何\mp-beta\obj\Debug\StudyOfWpfApplication1.pdb
+C:\Users\gala\Desktop\mp-beta何\mp-beta\bin\Debug\StudyOfWpfApplication1.exe
+C:\Users\gala\Desktop\mp-beta何\mp-beta\bin\Debug\StudyOfWpfApplication1.pdb
+C:\Users\gala\Desktop\mp-beta何\mp-beta\bin\Debug\Interop.Shell32.dll
+C:\Users\gala\Desktop\mp-beta何\mp-beta\obj\Debug\StudyOfWpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\gala\Desktop\mp-beta何\mp-beta\obj\Debug\DeskLyricWin.baml
+C:\Users\gala\Desktop\mp-beta何\mp-beta\obj\Debug\WindowList.baml
+C:\Users\gala\Desktop\mp-beta何\mp-beta\obj\Debug\App.baml
+C:\Users\gala\Desktop\mp-beta何\mp-beta\obj\Debug\DeskLyricWin.g.cs
+C:\Users\gala\Desktop\mp-beta何\mp-beta\obj\Debug\MainWindow.g.cs
+C:\Users\gala\Desktop\mp-beta何\mp-beta\obj\Debug\WindowList.g.cs
+C:\Users\gala\Desktop\mp-beta何\mp-beta\obj\Debug\App.g.cs
+C:\Users\gala\Desktop\mp-beta何\mp-beta\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\gala\Desktop\mp-beta何\mp-beta\obj\Debug\StudyOfWpfApplication1_MarkupCompile.cache
+C:\Users\gala\Desktop\mp-beta何\mp-beta\obj\Debug\StudyOfWpfApplication1_MarkupCompile.lref
+C:\Users\gala\Desktop\mp-beta何\mp-beta\obj\Debug\MainWindow.baml
+C:\Users\gala\Desktop\mp-beta何\mp-beta\obj\Debug\StudyOfWpfApplication1.g.resources
+C:\Users\gala\Desktop\mp-beta何\mp-beta\obj\Debug\StudyOfWpfApplication1.Properties.Resources.resources
+C:\Users\gala\Desktop\mp-beta何\mp-beta\obj\Debug\StudyOfWpfApplication1.csproj.GenerateResource.Cache
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\bin\Debug\StudyOfWpfApplication1.exe.config
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\obj\Debug\Interop.Shell32.dll
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\obj\Debug\Interop.WMPLib.dll
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1.csproj.ResolveComReference.cache
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1.exe
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1.pdb
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\bin\Debug\StudyOfWpfApplication1.exe
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\bin\Debug\StudyOfWpfApplication1.pdb
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\bin\Debug\Interop.Shell32.dll
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\obj\Debug\DeskLyricWin.baml
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\obj\Debug\WindowList.baml
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\obj\Debug\App.baml
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\obj\Debug\DeskLyricWin.g.cs
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\obj\Debug\MainWindow.g.cs
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\obj\Debug\WindowList.g.cs
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\obj\Debug\App.g.cs
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1_MarkupCompile.cache
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1_MarkupCompile.lref
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\obj\Debug\MainWindow.baml
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1.g.resources
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1.Properties.Resources.resources
+C:\Users\G\Desktop\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1.csproj.GenerateResource.Cache
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\bin\Debug\StudyOfWpfApplication1.exe.config
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\Interop.Shell32.dll
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\Interop.WMPLib.dll
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1.csproj.ResolveComReference.cache
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1.exe
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1.pdb
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\bin\Debug\StudyOfWpfApplication1.exe
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\bin\Debug\StudyOfWpfApplication1.pdb
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\bin\Debug\Interop.Shell32.dll
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\DeskLyricWin.baml
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\WindowList.baml
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\App.baml
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\DeskLyricWin.g.cs
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\MainWindow.g.cs
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\WindowList.g.cs
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\App.g.cs
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1_MarkupCompile.cache
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1_MarkupCompile.lref
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\MainWindow.baml
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1.g.resources
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1.Properties.Resources.resources
+C:\Users\gala\Desktop\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1.csproj.GenerateResource.Cache
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\bin\Debug\StudyOfWpfApplication1.exe.config
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\Interop.Shell32.dll
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\Interop.WMPLib.dll
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1.csproj.ResolveComReference.cache
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1.exe
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1.pdb
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\bin\Debug\StudyOfWpfApplication1.exe
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\bin\Debug\StudyOfWpfApplication1.pdb
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\bin\Debug\Interop.Shell32.dll
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\DeskLyricWin.baml
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\WindowList.baml
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\App.baml
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\DeskLyricWin.g.cs
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\MainWindow.g.cs
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\WindowList.g.cs
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\App.g.cs
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1_MarkupCompile.cache
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1_MarkupCompile.lref
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\MainWindow.baml
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1.g.resources
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1.Properties.Resources.resources
+C:\Users\gala\Desktop\file\大二\SSD4\SSD4项目\mp-beta何 - 终极\mp-beta何 - 副本\mp-beta\obj\Debug\StudyOfWpfApplication1.csproj.GenerateResource.Cache

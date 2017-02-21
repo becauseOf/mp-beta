@@ -1,0 +1,15 @@
+﻿<Window x:Class="StudyOfWpfApplication1.WindowList"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStyle="None" 
+        AllowsTransparency="True"
+        MouseLeftButtonDown="DragWindow"
+        Title="WindowList" Height="139.51" Width="292.657">
+    <Grid>
+        <Label Content="歌单名" HorizontalAlignment="Left" Margin="39,60,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Name="lisname" Height="23" Margin="102,62,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button Content="确认" Name="ok" HorizontalAlignment="Left" Margin="39,91,0,0" VerticalAlignment="Top" Width="75" Click="ok_Click"/>
+        <Button Content="取消" Name="cancel" HorizontalAlignment="Left" Margin="147,91,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.571,0.679" Click="cancel_Click"/>
+
+    </Grid>
+</Window>
